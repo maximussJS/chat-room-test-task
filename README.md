@@ -3,7 +3,7 @@
 Public-chat-room test task<br>
 
 ### Link:
-Application, hosted on Heroku (*address not yet created*).
+Application, hosted on Heroku https://public-chat-room.herokuapp.com/
 
 ### Used:
 ![](https://res.cloudinary.com/hk6omwzwc/image/upload/w_140/v1543516170/1280px-Node.js_logo.svg.png)
@@ -40,7 +40,7 @@ Advanced requirements:
 - Continuous integration CircleCI / TravisCI
 - Deploy to AWS / DigitalOcean from Docker Cloud
 ### Start:
-- clone this repository : git clone https://github.com/maximussJS/public-chat-room-test-task
+- clone this repository : git clone https://github.com/maximussJS/chat-room-test-task
 - Install command: npm install.
 - Write .env file by .env.example
 - Run command: npm start.
