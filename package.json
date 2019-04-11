@@ -16,7 +16,7 @@
     "version": "1.0.0",
     "description": "API for Public Chat Room Test task",
     "title": "Public Chat Room API",
-    "url": "https://re-join-der.herokuapp.com",
+    "url": "https://public-chat-room.herokuapp.com",
     "template": {
       "withCompare": true,
       "withGenerator": true
