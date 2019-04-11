@@ -3,7 +3,7 @@ define({
   "version": "1.0.0",
   "description": "API for Public Chat Room Test task",
   "title": "Public Chat Room API",
-  "url": "https://re-join-der.herokuapp.com",
+  "url": "https://public-chat-room.herokuapp.com",
   "template": {
     "withCompare": true,
     "withGenerator": true
@@ -13,7 +13,7 @@ define({
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2019-04-10T14:15:51.726Z",
+    "time": "2019-04-11T08:42:43.686Z",
     "url": "http://apidocjs.com",
     "version": "0.17.7"
   }
